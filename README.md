@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smearz
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Front-end with JS
+- 👀 I’m interested in Software Engeneering and Politics
+- 🌱 I’m currently learning Full-Stack BE and FE 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
